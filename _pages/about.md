@@ -11,12 +11,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
 
-If you like the template of this homepage, welcome to star and fork my open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
+从这里可以看到完整的简历 [here](../files/Ruijun_Wang_CV.pdf "Ruijun Wang's CV") {: target="-blank"}.
 
 {% include_relative includes/news.md %}
 
 {% include_relative includes/pub.md %}
 
-{% include_relative includes/honers.md %}
+{% include_relative includes/exper.md %}
 
 {% include_relative includes/others.md %}
