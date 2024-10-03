@@ -20,11 +20,10 @@ Xiaogang Xu (supervisor), **Ruijun Wang**, Zhixia Fan, Xu Ma, Zeren Zhao, Huijie
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement</div><img src='images/lmmdin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Gearbox fault identification based on lightweight multivariate multidirectional induction network](https://www.sciencedirect.com/science/article/abs/pii/S0263224122002512) \\ 
-Xiaoxun Zhu (supervisor), **Ruijun Wang**,  Zhixia Fan, Danqing Xia, Zhantian Liu, Zhentao Li
+[Gearbox fault identification based on lightweight multivariate multidirectional induction network](https://www.sciencedirect.com/science/article/abs/pii/S0263224122002512) \\ Xiaoxun Zhu (supervisor), **Ruijun Wang**,  Zhixia Fan, Danqing Xia, Zhantian Liu, Zhentao Li
+
 
 <strong><span class='show_paper_citations' data='goCftmoAAAAJ:qjMakFHDy7sC'></span></strong>
 </div>
