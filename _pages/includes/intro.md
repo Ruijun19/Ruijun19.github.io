@@ -1,15 +1,15 @@
-# 🔥 About Me
+# 💡 About Me
 
 我叫王瑞君，现在在中国内蒙古宇洪建筑工程有限公司工作，担任数据分析师。
 
 我的主要研究兴趣是使用人工智能技术处理工程中的复杂问题：例如，设备的预后和健康管理，能源预测和缺陷检测等，具体而言，开发信号处理，机器学习或深度学习方法用于火电厂离心风机，汽轮机转子，风力发电机齿轮箱，轴承等设备的故障诊断和剩余寿命预测；构建智能方法进行风速和风功率预测；使用计算机视觉技术进行风电叶片，太阳能电池板的缺陷检测。
 
-我毕业于华北电力大学能源动力与机械工程学院，获得硕士学位，师承韩中合，朱霄珣。本科毕业于内蒙古工业大学土木工程学院，获学士学位。期间，我在内蒙古泰利工程建筑公司担任了一年的工程师，在北京华智电科技有限公司担任了一年学生助理，导师为王瑜，高晓霞。
+我毕业于华北电力大学能源动力与机械工程学院，获得硕士学位，师承朱霄珣，许小刚。本科毕业于内蒙古工业大学土木工程学院，获学士学位。期间，我在内蒙古泰利工程建筑公司担任了一年的工程师，在北京华智电科技有限公司担任了一年学生助理，导师为王瑜，高晓霞。
 
 我在硕士期间从事充实的科研工作，获得了华北电力大学20222年优秀研究生荣誉 (Top10%)。
 
-我主要研究基于信号处理技术和深度学习算法的设备故障诊断和状态监测。共发表SCI论文7篇<a href='https://scholar.google.com/citations?user=goCftmoAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> ，其中，多篇论文在IEEE TII，Measurement等国际顶尖期刊发表。**特别强调**，**导师为第一作者的文章均由我独立完成**。此外，还有8篇SCI论文正在外审。
+我主要研究基于信号处理技术和深度学习算法的设备故障诊断和状态监测。共发表SCI论文7篇<a href='https://scholar.google.com/citations?user=goCftmoAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRuijun19%2FRuijun19.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> ，其中，多篇论文在IEEE TII，Measurement等国际顶尖期刊发表。**特别强调**，**导师为第一作者的文章均由我独立完成**。此外，还有8篇SCI论文正在外审。
 
 我参编了一本书籍；主导和参与了多项与中国国家电网，国家电力投资集团有限公司等大型能源集团的合作项目；参加过多次学术会议和指导了多个本科生的毕业设计。为了提高我的技能，我参加了人工智能的算法培训课程，并毕业。
 
-<u>***我当前正在寻找博士职位（Fall/Spring 2025）！***</u> 
+<u>**我当前正在寻找博士职位（Fall/Spring 2025）！**</u> 
