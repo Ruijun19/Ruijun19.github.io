@@ -23,6 +23,6 @@ redirect_from:
 
 {% include_relative includes/w_exper.md %}
 
-{% include_relative includes/honers.md %}
-
 {% include_relative includes/train.md %}
+
+{% include_relative includes/honers.md %}
