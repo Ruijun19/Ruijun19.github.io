@@ -32,9 +32,9 @@ Xiaoxun Zhu (supervisor), **Ruijun Wang**,  Zhixia Fan, Danqing Xia, Zhantian Li
 </div>
 
 
-- ``IEEE TII`` [Fan fault diagnosis based on lightweight multiscale multiattention feature fusion network](https://ieeexplore.ieee.org/abstract/document/9580581), Zhixia Fan, Xiaogang Xu, **Ruijun Wang**, Huijie Wang | <span class='show_paper_citations' data='goCftmoAAAAJ:d1gkVwhDpl0C'></span>
-- ``Experimental Techniques`` [Investigation and Experimental Study on Gearbox Vibration Fault Diagnosis Method Based on Fusion Feature Convolutional Learning Network](https://link.springer.com/article/10.1007/s40799-022-00552-x), Xiaoxun Zhu, Xingfei Ye, **Ruijun Wang**, et al. | <span class='show_paper_citations' data='goCftmoAAAAJ:IjCSPb-OGe4C'></span>
-- ``Measurement`` [CF-HSACNN: A joint anti-noise learning framework for centrifugal fan state recognition](https://www.sciencedirect.com/science/article/abs/pii/S0263224122010983), Zhixia Fan, Xiaogang Xu, **Ruijun Wang**, Huijie Wang | <span class='show_paper_citations' data='goCftmoAAAAJ:u-x6o8ySG0sC'></span>
+- ``IEEE TII`` [Fan fault diagnosis based on lightweight multiscale multiattention feature fusion network](https://ieeexplore.ieee.org/abstract/document/9580581), Zhixia Fan, Xiaogang Xu, **Ruijun Wang**, Huijie Wang <span class='show_paper_citations' data='goCftmoAAAAJ:d1gkVwhDpl0C'></span>
+- ``Experimental Techniques`` [Investigation and Experimental Study on Gearbox Vibration Fault Diagnosis Method Based on Fusion Feature Convolutional Learning Network](https://link.springer.com/article/10.1007/s40799-022-00552-x), Xiaoxun Zhu, Xingfei Ye, **Ruijun Wang**, et al. <span class='show_paper_citations' data='goCftmoAAAAJ:IjCSPb-OGe4C'></span>
+- ``Measurement`` [CF-HSACNN: A joint anti-noise learning framework for centrifugal fan state recognition](https://www.sciencedirect.com/science/article/abs/pii/S0263224122010983), Zhixia Fan, Xiaogang Xu, **Ruijun Wang**, Huijie Wang <span class='show_paper_citations' data='goCftmoAAAAJ:u-x6o8ySG0sC'></span>
 - ``Sustainability`` [Research on the Fault Diagnosis Method of a Synchronous Condenser Based on the Multi-Scale Zooming Learning Framework](), Baiyun Qian, Jinjun Huang, Xiaoxun Zhu, **Ruijun Wang**, et al.
 
 ## 🔒️ Under review

@@ -19,6 +19,10 @@ redirect_from:
 
 {% include_relative includes/a_exper.md %}
 
-{% include_relative includes/ew_exper.md %}
+{% include_relative includes/e_exper.md %}
 
-{% include_relative includes/others.md %}
+{% include_relative includes/w_exper.md %}
+
+{% include_relative includes/honers.md %}
+
+{% include_relative includes/train.md %}
