@@ -1,4 +1,4 @@
-# 🚀 Academic Experiences
+# ✨ Academic Experiences
 
 ## 💻 Peer review
 
