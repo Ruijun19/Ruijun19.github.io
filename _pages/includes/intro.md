@@ -6,7 +6,7 @@
 
 我毕业于华北电力大学能源动力与机械工程学院，获得硕士学位，师承朱霄珣，许小刚。本科毕业于内蒙古工业大学土木工程学院，获学士学位。期间，我在内蒙古泰利工程建筑公司担任了一年的工程师，在北京华智电科技有限公司担任了一年学生助理，导师为王瑜，高晓霞。
 
-我在硕士期间从事充实的科研工作，获得了华北电力大学20222年优秀研究生荣誉 (Top10%)。
+我在硕士期间从事充实的科研工作，获得了华北电力大学20222年优秀研究生荣誉 (Top 10%)。
 
 我主要研究基于信号处理技术和深度学习算法的设备故障诊断和状态监测。共发表SCI论文7篇<a href='https://scholar.google.com/citations?user=goCftmoAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRuijun19%2FRuijun19.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> ，其中，多篇论文在IEEE TII，Measurement等国际顶尖期刊发表。**特别强调**，**导师为第一作者的文章均由我独立完成**。此外，还有8篇SCI论文正在外审。
 
