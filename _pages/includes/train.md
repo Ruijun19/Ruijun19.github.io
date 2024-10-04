@@ -1,4 +1,4 @@
-# 🔍️ Training
+# 🔍️ Skills Training
 #### Machine Learning
 - Linear Regression; Logistic Regression; Clustering Algorithm; Decision Tree; Ensemble learning; Support Vector Machine; Bayesian Algorithm; Association Rule Algorithm - Apripri; Word Vector Model - Word2Vec; Linear Discriminant Analysis; Principal Component Analysis; Hidden Markov Model etc.
 
