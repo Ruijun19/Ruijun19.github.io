@@ -1,5 +1,5 @@
-# 💥 Honors and Training
-## 🎖 Honors
+# 🎯 Honors and Training
+## 🏆 Honors
 
 - *2022* Outstanding graduate student (Top 10%)
 - *2022* First scholarship of school

@@ -1,6 +1,6 @@
-# ✨ Academic Experiences
+# 🌏 Academic Experiences
 
-## 💻 Peer review
+## 🎧 Peer review
 
 - 7th International Conference on Computer Science and Application Engineering
 
@@ -10,7 +10,7 @@
 
 - Intelligent Monitoring Method and Application of Vibration Status of Electric Power Equipment
 
-## 📌 Participated in research projects
+## 🎬 Participated in research projects
 
 - State Grid <img src='./images/sg.png' style='width: 6em;'> Xinjiang Electric Power Research Institute 2022 300MVar Synchronous Condenser Fault Diagnosis Technical Service
 
@@ -20,7 +20,7 @@
 
 - Development of Intelligent Detection and Management System for Wind Turbine
 
-## 👥 Participated academic conferences
+## 💻 Participated academic conferences
 
 - 2022 Hebei Vibration Engineering Society Conference
 
@@ -34,6 +34,6 @@
 
 - Software for wind turbine blade defect detection system
 
-## 🧪 Teaching experience
+## 📐 Teaching experience
 
 - Supervised a total of 6 undergraduate design students

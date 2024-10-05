@@ -12,7 +12,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII</div><img src='images/msdrt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Industrial Informatics</div><img src='images/msdrt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MS-DRT: A Multilevel and Multiscale Branch Learning Scheme for Fault Diagnosis of Rotating Machinery](https://ieeexplore.ieee.org/abstract/document/10199128) \\
 Xiaogang Xu (supervisor), **Ruijun Wang**, Zhixia Fan, Xu Ma, Zeren Zhao, Huijie Wang
@@ -32,7 +32,7 @@ Xiaoxun Zhu (supervisor), **Ruijun Wang**,  Zhixia Fan, Danqing Xia, Zhantian Li
 </div>
 
 
-- ``IEEE TII`` [Fan fault diagnosis based on lightweight multiscale multiattention feature fusion network](https://ieeexplore.ieee.org/abstract/document/9580581), Zhixia Fan, Xiaogang Xu, **Ruijun Wang**, Huijie Wang <span class='show_paper_citations' data='goCftmoAAAAJ:d1gkVwhDpl0C'></span>
+- ``IEEE Transactions on Industrial Informatics`` [Fan fault diagnosis based on lightweight multiscale multiattention feature fusion network](https://ieeexplore.ieee.org/abstract/document/9580581), Zhixia Fan, Xiaogang Xu, **Ruijun Wang**, Huijie Wang <span class='show_paper_citations' data='goCftmoAAAAJ:d1gkVwhDpl0C'></span>
 - ``Experimental Techniques`` [Investigation and Experimental Study on Gearbox Vibration Fault Diagnosis Method Based on Fusion Feature Convolutional Learning Network](https://link.springer.com/article/10.1007/s40799-022-00552-x), Xiaoxun Zhu, Xingfei Ye, **Ruijun Wang**, et al. <span class='show_paper_citations' data='goCftmoAAAAJ:IjCSPb-OGe4C'></span>
 - ``Measurement`` [CF-HSACNN: A joint anti-noise learning framework for centrifugal fan state recognition](https://www.sciencedirect.com/science/article/abs/pii/S0263224122010983), Zhixia Fan, Xiaogang Xu, **Ruijun Wang**, Huijie Wang <span class='show_paper_citations' data='goCftmoAAAAJ:u-x6o8ySG0sC'></span>
 - ``Sustainability`` [Research on the Fault Diagnosis Method of a Synchronous Condenser Based on the Multi-Scale Zooming Learning Framework](), Baiyun Qian, Jinjun Huang, Xiaoxun Zhu, **Ruijun Wang**, et al.
@@ -44,5 +44,5 @@ Xiaoxun Zhu (supervisor), **Ruijun Wang**,  Zhixia Fan, Danqing Xia, Zhantian Li
 - ``Structural Health Monitoring`` [A decoupled learning with reduced convergence domain applied to fault diagnosis of rotating machinery](), Zhixia Fan, **Ruijun Wang* (co-first author)**, Yuan Liu, Xiaogang Xu, Huijie Wang
 - ``IEEE Internet of Things Journal`` [From Frequency Domain to Time Domain: A joint refinement threshold interactive fusion method applied to gearbox fault diagnosis](), **Ruijun Wang**, Zhixia Fan*, Yuan Liu, Xiaogang Xu, Huijie Wang
 - ``Applied Thermal Engineering`` [A Method of Joint Time-Frequency Threshold Refinement Applied in Fault Diagnosis of Power Equipment in Thermal Power Plants](), Zhixia Fan*, **Ruijun Wang (co-first author)**, Yuan Liu, Xiaogang Xu, Huijie Wang
-- ``IEEE TIM`` [A Time-Frequency Dynamic Threshold Self-Attention and Energy Self-Learning Strategy Applied to Gearbox Fault Diagnosis in Noisy Environments](), **Ruijun Wang**, Zhixia Fan*, Yuan Liu, Xiaogang Xu, Huijie Wang
-- ``Information Sciences`` [A dynamically balanced wavelet coefficient matching transient energy operator for state identification of rotating machinery](), Zhixia Fan, **Ruijun Wang* (co-first author)**, Yuan Liu, Xiaogang Xu, Huijie Wang
+- ``IEEE Transactions on Instrumentation and Measurement`` [A Time-Frequency Dynamic Threshold Self-Attention and Energy Self-Learning Strategy Applied to Gearbox Fault Diagnosis in Noisy Environments](), **Ruijun Wang**, Zhixia Fan*, Yuan Liu, Xiaogang Xu, Huijie Wang
+- ``Measurement`` [A dynamically balanced wavelet coefficient matching transient energy operator for state identification of rotating machinery](), Zhixia Fan, **Ruijun Wang* (co-first author)**, Yuan Liu, Xiaogang Xu, Huijie Wang

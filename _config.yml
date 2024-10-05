@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "王瑞君"
-description              : "目前正在寻找博士职位"
+title                    : "Ruijun Wang"
+description              : "Searching for a PhD position currently"
 repository               : "Ruijun19/Ruijun19.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "王瑞君"
+  name             : "Ruijun Wang（王瑞君）"
   avatar           : "images/rj_photo.jpeg"
-  bio              : "华北电力大学工程学硕士"
+  bio              : "M.Eng, NCEPU"
   location         : "China"
   employer         :
   pubmed           : 
