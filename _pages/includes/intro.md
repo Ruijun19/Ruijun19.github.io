@@ -12,4 +12,4 @@ My primary research focused on equipment fault diagnosis and condition monitorin
 
 I participated in editing a book; Led and participated in multiple cooperation projects with large energy groups such as State Grid Corporation of China and State Power Investment Group Co., Ltd; I have attended numerous academic conferences and supervised several undergraduate thesis projects; To enhance my skills, I completed an algorithm training course in artificial intelligence.
 
-🎤 <span style="color:red;"> **I am currently seeking a Ph.D. position (Fall/Spring 2025) ！** </span>
+🎤 <span style="color:red;"> **I am currently seeking a Ph.D. position (Fall/Spring 2025) !** </span>
