@@ -6,6 +6,7 @@
 <div class='paper-box-text' markdown="1">
 [Application of a dense fusion attention network in fault diagnosis of centrifugal fan](https://link.springer.com/article/10.1007/s10489-024-05643-3) \\
 **Ruijun Wang**, Yuan Liu, Zhixia Fan, Xiaogang Xu, Huijie Wang
+
 <a href='../files/dfanet.pdf '><i class="fa fa-file-pdf"></i>[PDF]</a> <strong><span class='show_paper_citations' data='goCftmoAAAAJ:2osOgNQ5qMEC'></span></strong>
 </div>
 </div>
