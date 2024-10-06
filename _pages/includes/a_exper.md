@@ -12,9 +12,9 @@
 
 ## 🎬 Participated in research projects
 
-- State Grid <img src='./images/sg.png' style='width: 6em;'> Xinjiang Electric Power Research Institute 2022 300MVar Synchronous Condenser Fault Diagnosis Technical Service
+- State Grid <img src='./images/sg.png' style='width: 4em;'> Xinjiang Electric Power Research Institute 2022 300MVar Synchronous Condenser Fault Diagnosis Technical Service
 
-- Development of Energy Management Platform for Carbon Neutrality Smart Park of State Power Investment Corporation <img src='./images/SPIC.png' style='width: 6em;'>
+- Development of Energy Management Platform for Carbon Neutrality Smart Park of State Power Investment Corporation <img src='./images/SPIC.png' style='width: 4em;'>
 
 - Research on Vibration Feature Representation and State Identification Method of Wind Turbine Transmission System under the Framework of Deep Learning
 
@@ -30,9 +30,7 @@
 
 ## 📄 Software copyrights
 
-- Software for wind turbine gearbox status monitoring system
-
-- Software for wind turbine blade defect detection system
+- Software for wind turbine gearbox status monitoring system <a href='../files/rz.pdf '><i class="fa fa-file-pdf"></i>[PDF]</a>
 
 ## 📐 Teaching experience
 

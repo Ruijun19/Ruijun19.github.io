@@ -38,7 +38,7 @@ Xiaoxun Zhu (supervisor), **Ruijun Wang**,  Zhixia Fan, Danqing Xia, Zhantian Li
 - ``Sustainability`` [Research on the Fault Diagnosis Method of a Synchronous Condenser Based on the Multi-Scale Zooming Learning Framework](), Baiyun Qian, Jinjun Huang, Xiaoxun Zhu, **Ruijun Wang**, et al.
 
 ## 🔒️ Under review
-- ``The International Journal of Advanced Manufacturing Technology`` [MDFLF: A Multi-Distributed Feature Learning Framework for Gearbox Fault Diagnosis](), **Ruijun Wang**, Zhixia Fan*, Yuan Liu, Xiaogang Xu
+- ``IEEE Transactions on Industrial Cyber-Physical Systems`` [MDFLF: A Multi-Distributed Feature Learning Framework for Gearbox Fault Diagnosis](), **Ruijun Wang**, Zhixia Fan*, Yuan Liu, Xiaogang Xu
 - ``Measurement Science and Technology`` [Application of a Multi Learning Domain Model in Fault Identification of Centrifugal Fan](), Zhixia Fan*, **Ruijun Wang (co-first author)**, Yuan Liu
 - ``IEEE Sensors Journal`` [Application of Multi Operation Joint Measurement Method Based on Pyramid Structure in Gearbox Fault Diagnosis](), **Ruijun Wang**, Zhixia Fan*, Yuan Liu, Xiaogang Xu, Huijie Wang
 - ``Structural Health Monitoring`` [A decoupled learning with reduced convergence domain applied to fault diagnosis of rotating machinery](), Zhixia Fan, **Ruijun Wang* (co-first author)**, Yuan Liu, Xiaogang Xu, Huijie Wang
