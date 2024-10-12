@@ -22,5 +22,3 @@ Please find my CV [here](../files/Ruijun_Wang_CV.pdf "Ruijun Wang's CV").
 {% include_relative includes/ew_exper.md %}
 
 {% include_relative includes/others.md %}
-
-{% include_relative includes/vs.md %}
