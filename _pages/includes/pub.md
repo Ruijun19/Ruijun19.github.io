@@ -14,5 +14,6 @@
 
 ## 🔒️ Under review
 - ``IEEE Sensors Journal`` <span style="color:rgb(0,0,128);"><u>Application of Multi Operation Joint Measurement Method Based on Pyramid Structure in Gearbox Fault Diagnosis</u></span>, **Ruijun Wang**, Zhixia Fan*, Yuan Liu, Xiaogang Xu, Huijie Wang
-- ``IEEE Internet of Things Journal`` <span style="color:rgb(0,0,128);"><u>From Frequency Domain to Time Domain: A joint prior space interactive fusion method applied to gearbox fault diagnosis</u></span>, **Ruijun Wang**, Zhixia Fan*, Yuan Liu, Xiaogang Xu, Huijie Wang
+- ``IEEE Internet of Things Journal`` <span style="color:rgb(0,0,128);"><u>From Frequency Domain to Time Domain: A joint refinement threshold interactive fusion method applied to gearbox fault diagnosis</u></span>, **Ruijun Wang**, Zhixia Fan*, Yuan Liu, Xiaogang Xu, Huijie Wang
 - ``IEEE Transactions on Instrumentation and Measurement`` <span style="color:rgb(0,0,128);"><u>A Time-Frequency Dynamic Threshold Self-Attention and Energy Self-Learning Strategy Applied to Gearbox Fault Diagnosis in Noisy Environments</u></span>, **Ruijun Wang**, Zhixia Fan*, Yuan Liu, Xiaogang Xu, Huijie Wang
+- ``Signal, Image and Video Processing`` <span style="color:rgb(0,0,128);"><u>MDFLF: A Multi-Distributed Feature Learning Framework for Gearbox Fault Diagnosis</u></span>, **Ruijun Wang**, Zhixia Fan*, Yuan Liu, Xiaogang Xu
