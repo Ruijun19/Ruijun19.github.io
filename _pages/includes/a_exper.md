@@ -3,6 +3,7 @@
 ## 🎧 Peer review
 
 - 7th International Conference on Computer Science and Application Engineering
+- Cluster Computing, Springer
 
 ## 📖 Participated in book writing
 
