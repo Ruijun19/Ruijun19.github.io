@@ -3,6 +3,7 @@
 ## 🎧 Peer review
 
 - 7th International Conference on Computer Science and Application Engineering
+- Signal, Image and Video Processing, Springer
 - Cluster Computing, Springer
 
 ## 📖 Participated in book writing
